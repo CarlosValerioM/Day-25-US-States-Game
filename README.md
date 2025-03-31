@@ -52,4 +52,5 @@ The script checks if the state name is valid by comparing it to a list of states
 
 If the state is found, the name is displayed at the correct position on the map.
 
-License:
+## License:
+This project is licensed under the MIT License.
